@@ -7,7 +7,7 @@ import android.graphics.Bitmap;
 import android.graphics.PixelFormat;
 import android.os.Build;
 import android.os.IBinder;
-import android.support.annotation.RequiresApi;
+import androidx.annotation.RequiresApi;
 import android.view.Gravity;
 import android.view.MotionEvent;
 import android.view.View;
